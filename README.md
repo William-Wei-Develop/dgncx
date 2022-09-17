@@ -1,2 +1,6 @@
 # dgncx
-all dgncx (any version)
+published 'dgncx-c++' & 'Snake' now.
+
+for other dgncx: see repository 'g9mee' | '41105'.
+
+$a_i$
